@@ -1,1 +1,1 @@
-# json-schema-validation
+Projekt znajdujący się w tym repozytorium jest częścią artykułu ["Testowanie REST API za pomocą JSON Schema"](https://automatyzacja.it/2023/08/24/testowanie-rest-api-za-pomoca-json-schema/) znajdującego się na stronie [Automatyzacja.IT](https://automatyzacja.it).
